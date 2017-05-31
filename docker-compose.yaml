@@ -1,3 +1,4 @@
+# This yaml file is redundant when docker::run class is used instead.
 nginx:
   image: nginx
   hostname: nginx
