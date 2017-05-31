@@ -1,3 +1,3 @@
 FROM nginx
-MAINTAINER E B
+MAINTAINER EricB
 RUN apt-get -qqy update
